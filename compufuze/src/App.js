@@ -1,4 +1,4 @@
-import logo from './Verbatim Banner.jpg';
+import logo from './VerbatimBanner.jpg';
 import './App.css';
 
 function App() {
