@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Verbatim Banner.jpg';
 import './App.css';
 
 function App() {
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/scottynate05"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Let's Chat
         </a>
       </header>
     </div>
