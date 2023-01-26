@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Let's Chat
+          Let's Chat, The Future Is Waiting!
         </a>
       </header>
     </div>
