@@ -13,7 +13,7 @@ const Button = styled.button`
 `;
 
 const sayHello = () => {
-  alert('You now owe $25, our \'Specialized\' team of collection agents have been dispatched. Godspeed...');
+  alert('You now owe $25, our \'Specialized\' team of collections agents have been dispatched. Godspeed...');
 }
 
 function App() {
