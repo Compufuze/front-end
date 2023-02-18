@@ -26,7 +26,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://github.com/scottynate05"
+          href="https://bryceprutsos.me/"
           target="_blank"
           rel="noopener noreferrer"
         >
