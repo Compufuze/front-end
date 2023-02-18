@@ -26,11 +26,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://github.com/scottynate05"
+          href="https://bryceprutsos.me/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Let's Chat, The Future Is Waiting!
+          Please feel free to learn more about us here!
         </a>
         <Button onClick={sayHello}>
           $25 per Click
