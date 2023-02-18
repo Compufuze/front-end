@@ -30,7 +30,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Let's Chat, The Future Is Waiting!
+          Please feel free to learn more about us here!
         </a>
         <Button onClick={sayHello}>
           $25 per Click
